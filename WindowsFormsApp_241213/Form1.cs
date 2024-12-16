@@ -16,14 +16,12 @@ namespace WindowsFormsApp_241213
         {
             InitializeComponent();
 
-            MessageBox.Show("하하하하하");
+            string msg = "안녕";
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            int a = 0;
 
-            a = 9999;
         }
     }
 }
