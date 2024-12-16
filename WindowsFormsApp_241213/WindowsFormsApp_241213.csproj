@@ -63,6 +63,7 @@
     <Compile Include="kimyerin.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Changheonkim.cs" />
     <Compile Include="송아현.cs" />
     <Compile Include="yuseok.cs" />
     <EmbeddedResource Include="Form1.resx">
