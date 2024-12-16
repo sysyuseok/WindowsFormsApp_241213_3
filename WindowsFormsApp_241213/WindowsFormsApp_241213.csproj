@@ -55,6 +55,8 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="JoBawool.cs" />
+    <Compile Include="hayoung.cs" />
+    <Compile Include="geon.cs" />
     <Compile Include="ksy.cs" />
     <Compile Include="hy.cs" />
     <Compile Include="kimyerin.cs" />
