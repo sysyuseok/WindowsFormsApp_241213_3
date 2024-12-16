@@ -17,6 +17,7 @@ namespace WindowsFormsApp_241213
             InitializeComponent();
 
             string msg = "안녕";
+            msg = "John";
         }
 
         private void Form1_Load(object sender, EventArgs e)
